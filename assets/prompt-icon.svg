@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Prompt plugin icon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22254B"/>
+      <stop offset="1" stop-color="#11172B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#A0F5EF"/>
+      <stop offset="1" stop-color="#71A8FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="112" fill="url(#bg)"/>
+  <path d="M121 143H308C331 143 349 161 349 184V294C349 317 331 335 308 335H214L166 377V335H121C98 335 80 317 80 294V184C80 161 98 143 121 143Z" fill="#FFFFFF" fill-opacity=".10" stroke="#BBC9F7" stroke-opacity=".5" stroke-width="12" stroke-linejoin="round"/>
+  <path d="M130 210H253M130 248H224" stroke="#EAF1FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M338 110L354 156L400 172L354 188L338 234L322 188L276 172L322 156Z" fill="url(#glow)" stroke="#131A32" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M397 286L411 326L451 340L411 354L397 394L383 354L343 340L383 326Z" fill="url(#glow)" stroke="#131A32" stroke-width="8" stroke-linejoin="round"/>
+</svg>

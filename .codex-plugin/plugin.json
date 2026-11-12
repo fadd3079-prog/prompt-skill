@@ -1,0 +1,27 @@
+{
+  "interface": {
+    "displayName": "Prompt",
+    "shortDescription": "Sempurnakan prompt mentah",
+    "longDescription": "Ubah permintaan sederhana maupun teknis menjadi satu instruksi untuk AI yang jelas, profesional, terarah, dan terukur; mempertahankan maksud pengguna, menggunakan kedalaman adaptif, dan tidak menjawab tugas asli.",
+    "developerName": "Pemilik plugin",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Sempurnakan prompt mentah berikut menjadi satu prompt profesional tanpa menjalankan tugas aslinya: ",
+    "logo": "./assets/prompt-icon.svg",
+    "composerIcon": "./assets/prompt-icon.svg"
+  },
+  "name": "prompt",
+  "version": "1.0.1",
+  "description": "Optimalkan prompt mentah menjadi satu prompt profesional, jelas, tepat sasaran, dan siap dipakai tanpa mengerjakan instruksi aslinya.",
+  "author": {
+    "name": "Pemilik plugin"
+  },
+  "keywords": [
+    "prompt",
+    "prompt engineering",
+    "prompt optimization",
+    "Bahasa Indonesia",
+    "productivity"
+  ],
+  "skills": "./skills"
+}

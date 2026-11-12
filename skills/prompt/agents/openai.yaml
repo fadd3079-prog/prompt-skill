@@ -1,0 +1,6 @@
+interface:
+  display_name: Prompt
+  short_description: Sempurnakan prompt mentah
+  default_prompt: "Sempurnakan prompt berikut menjadi satu prompt profesional tanpa menjawab isinya: "
+policy:
+  allow_implicit_invocation: false
